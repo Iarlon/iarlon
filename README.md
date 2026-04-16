@@ -2,11 +2,19 @@
 
 **`QA Engineer`**
 
-Me chamo Iarlon Soares da Silva Oliveira, tenho 20 anos e sou natural de Rondônia, Porto Velho. Atualmente moro em João Pessoa, Paraíba, faço Sistemas de informação na UNIESP. Iniciei no mundo da tecnologia como QA e me apaixonei pela área, busco cada vez mais me aprimorar e profissionalizar. Meu linkedin: <a src="https://www.linkedin.com/in/iarlon-oliveira/">Iarlon Oliveira</a>
+Me chamo Iarlon Soares da Silva Oliveira, tenho 22 anos e sou natural de Rondônia, Porto Velho. Atualmente moro em João Pessoa, Paraíba, faço Sistemas de informação na UNIESP. Iniciei no mundo da tecnologia como QA e me apaixonei pela área, busco cada vez mais me aprimorar e profissionalizar. Meu linkedin: <a src="https://www.linkedin.com/in/iarlon-oliveira/">Iarlon Oliveira</a>
 
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    align="left" 
+    alt="Csharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+/>
 
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
@@ -24,15 +32,6 @@ Me chamo Iarlon Soares da Silva Oliveira, tenho 20 anos e sou natural de Rondôn
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="mocha" 
-    title="mocha"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-plain.svg"
 />
           
 
@@ -74,27 +73,7 @@ Me chamo Iarlon Soares da Silva Oliveira, tenho 20 anos e sou natural de Rondôn
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"
 />
-          
-          
 
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-          
-          
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -102,22 +81,6 @@ Me chamo Iarlon Soares da Silva Oliveira, tenho 20 anos e sou natural de Rondôn
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <img
@@ -128,6 +91,23 @@ Me chamo Iarlon Soares da Silva Oliveira, tenho 20 anos e sou natural de Rondôn
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+    align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+/>
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+    align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+/>
           
 
 <br/>
@@ -136,18 +116,11 @@ Me chamo Iarlon Soares da Silva Oliveira, tenho 20 anos e sou natural de Rondôn
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=iarlon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarlon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
