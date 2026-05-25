@@ -108,20 +108,3 @@ Me chamo Iarlon Soares da Silva Oliveira, tenho 22 anos e sou natural de Rondôn
     width="30px" 
     style="padding-right: 10px;" 
 />
-          
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarlon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
-</p>
