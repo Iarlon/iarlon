@@ -2,8 +2,8 @@
 
 **`QA Engineer`**
 
-Me chamo Iarlon Soares da Silva Oliveira, tenho 22 anos e sou natural de Rondônia, Porto Velho. Atualmente moro em João Pessoa, Paraíba, faço Sistemas de informação na UNIESP. Iniciei no mundo da tecnologia como QA e me apaixonei pela área, busco cada vez mais me aprimorar e profissionalizar. Meu linkedin: <a src="https://www.linkedin.com/in/iarlon-oliveira/">Iarlon Oliveira</a>
-<br> Link para acesso de app feito com .net, c#, boas práticas SOLID, CQRS, DDD e Domain Event, além de usar react native e usar o build web para disponibilizar no domínio do app <a src="http://planfin.tech:3000">Planfin</a>
+Me chamo Iarlon Soares da Silva Oliveira, tenho 22 anos e sou natural de Rondônia, Porto Velho. Atualmente moro em João Pessoa, Paraíba, faço Sistemas de informação na UNIESP. Iniciei no mundo da tecnologia como QA e me apaixonei pela área, busco cada vez mais me aprimorar e profissionalizar. Meu linkedin: <a href="https://www.linkedin.com/in/iarlon-oliveira/">Iarlon Oliveira</a>
+<br> Link para acesso de app feito com .net, c#, boas práticas SOLID, CQRS, DDD e Domain Event, além de usar react native e usar o build web para disponibilizar no domínio do app <a href="http://planfin.tech:3000">Planfin</a>
 
 
 ### 🤖 Linguagens e Tecnologias
